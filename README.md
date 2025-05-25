@@ -1,5 +1,6 @@
-** 👨🏼‍💻 Felipe Araujo** 
-**Desenvolvedor Full-Stack**
+# 👨🏼‍💻 Felipe Araujo
+
+**Desenvolvedor FullStack**
 
 Me chamo Felipe Araujo, um profissional em constante evolução, apaixonado por tecnologia e inovação.
 
