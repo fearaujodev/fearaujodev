@@ -3,7 +3,7 @@ Desenvolvedor Fullstack
 
 Me chamo Felipe Araujo, um profissional em constante evolução, apaixonado por tecnologia e inovação.
 
-<p align="left"> <a href="https://www.linkedin.com/in/matheusliima/"> <img alt="LinkedIn" title="Me siga no LinkedIn!" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+<p align="left"> <a href="linkedin.com/in/felipe-ferreira-araujo-dev"> <img alt="LinkedIn" title="Me siga no LinkedIn!" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
 🤖 Linguagens e Tecnologias
 
 ### 🤖 Linguagens e Tecnologias
