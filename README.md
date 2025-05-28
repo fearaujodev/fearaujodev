@@ -4,10 +4,6 @@
   <a href="www.linkedin.com/in/felipe-ferreira-araujo-dev" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="felipeferreiraaraujo26@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
 
 ---
 
