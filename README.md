@@ -1,5 +1,5 @@
-👨🏼‍💻 Matheus Lima,
-Desenvolvedor FullStack
+👨🏼‍💻 Felipe Araujo,
+#Desenvolvedor FullStack#
 
 Me chamo Matheus Lima, tenho 18 anos e sou de São Paulo (Capital). Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FAM. Sou um profissional em constante evolução, apaixonado por tecnologia e inovação.
 
