@@ -1,10 +1,6 @@
 <h1 align="center">Olá! 👋 Me chamo Felipe Araujo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=0D8ABC&size=22&center=true&vCenter=true&width=500&lines=Estudante+de+Sistemas+de+Informação;Apaixonado+por+Tecnologia+e+Inovação;Sempre+em+constante+evolução!" />
-</p>
-
-<p align="center">
   <a href="www.linkedin.com/in/felipe-ferreira-araujo-dev" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -36,6 +32,6 @@ Sinta-se à vontade para me chamar para conversar sobre projetos, colaborações
 ---
 
 <p align="center">
-  Feito com por Gustavo Lopes
+  Feito com por Felipe Araujo
 </p>
 
